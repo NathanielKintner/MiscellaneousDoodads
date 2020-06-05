@@ -1,0 +1,11 @@
+c:\users\guysadmin\documents\visual studio 2015\Projects\MagicTestingWare\MagicTestingWare\bin\Debug\MagicTestingWare.exe.config
+c:\users\guysadmin\documents\visual studio 2015\Projects\MagicTestingWare\MagicTestingWare\bin\Debug\MagicTestingWare.exe
+c:\users\guysadmin\documents\visual studio 2015\Projects\MagicTestingWare\MagicTestingWare\bin\Debug\MagicTestingWare.pdb
+c:\users\guysadmin\documents\visual studio 2015\Projects\MagicTestingWare\MagicTestingWare\obj\Debug\MagicTestingWare.csprojResolveAssemblyReference.cache
+c:\users\guysadmin\documents\visual studio 2015\Projects\MagicTestingWare\MagicTestingWare\obj\Debug\MagicTestingWare.CardListForm.resources
+c:\users\guysadmin\documents\visual studio 2015\Projects\MagicTestingWare\MagicTestingWare\obj\Debug\MagicTestingWare.Form1.resources
+c:\users\guysadmin\documents\visual studio 2015\Projects\MagicTestingWare\MagicTestingWare\obj\Debug\MagicTestingWare.Properties.Resources.resources
+c:\users\guysadmin\documents\visual studio 2015\Projects\MagicTestingWare\MagicTestingWare\obj\Debug\MagicTestingWare.csproj.GenerateResource.Cache
+c:\users\guysadmin\documents\visual studio 2015\Projects\MagicTestingWare\MagicTestingWare\obj\Debug\MagicTestingWare.exe
+c:\users\guysadmin\documents\visual studio 2015\Projects\MagicTestingWare\MagicTestingWare\obj\Debug\MagicTestingWare.pdb
+c:\users\guysadmin\documents\visual studio 2015\Projects\MagicTestingWare\MagicTestingWare\obj\Debug\MagicTestingWare.DeckInterface.resources

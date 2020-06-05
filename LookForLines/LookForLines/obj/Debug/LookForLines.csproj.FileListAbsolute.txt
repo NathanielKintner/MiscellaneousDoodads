@@ -1,0 +1,11 @@
+c:\users\guysadmin\documents\visual studio 2015\Projects\LookForLines\LookForLines\bin\Debug\LookForLines.exe.config
+c:\users\guysadmin\documents\visual studio 2015\Projects\LookForLines\LookForLines\bin\Debug\LookForLines.exe
+c:\users\guysadmin\documents\visual studio 2015\Projects\LookForLines\LookForLines\bin\Debug\LookForLines.pdb
+c:\users\guysadmin\documents\visual studio 2015\Projects\LookForLines\LookForLines\obj\Debug\LookForLines.csprojResolveAssemblyReference.cache
+c:\users\guysadmin\documents\visual studio 2015\Projects\LookForLines\LookForLines\obj\Debug\LookForLines.Properties.Resources.resources
+c:\users\guysadmin\documents\visual studio 2015\Projects\LookForLines\LookForLines\obj\Debug\LookForLines.csproj.GenerateResource.Cache
+c:\users\guysadmin\documents\visual studio 2015\Projects\LookForLines\LookForLines\obj\Debug\LookForLines.exe
+c:\users\guysadmin\documents\visual studio 2015\Projects\LookForLines\LookForLines\obj\Debug\LookForLines.pdb
+c:\users\guysadmin\documents\visual studio 2015\Projects\LookForLines\LookForLines\bin\Debug\Datafiles\Data1.txt
+c:\users\guysadmin\documents\visual studio 2015\Projects\LookForLines\LookForLines\obj\Debug\LookForLines.Form1.resources
+c:\users\guysadmin\documents\visual studio 2015\Projects\LookForLines\LookForLines\bin\Debug\Datafiles\Data2.txt
